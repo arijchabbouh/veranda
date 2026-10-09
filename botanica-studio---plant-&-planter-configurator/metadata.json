@@ -1,0 +1,6 @@
+{
+  "name": "Botanica Studio - Plant & Planter Configurator",
+  "description": "Interactive studio-lit product configurator for realistic architectural plants and handcrafted designer planters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
