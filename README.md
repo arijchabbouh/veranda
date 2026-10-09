@@ -13,8 +13,8 @@ data is in progress.
 
 ## Team
 
-- **Arouja** — Medusa setup, backend/data modules, 2D configurator
-- **Teammate** — catalog/data curation, asset/image generation
+- **Arij Chabbouh** — Medusa setup, backend/data modules, 2D configurator
+- **Haythem Drihmi** — catalog/data curation, asset/image generation
 
 ## Stack
 
