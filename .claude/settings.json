@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"console.log\\(Object.keys\\(require\\('@medusajs/medusa/core-flows'\\)\\).filter\\(k=>/cart/i.test\\(k\\)\\)\\)\")",
+      "Bash(node -e ' *)"
+    ]
+  }
+}

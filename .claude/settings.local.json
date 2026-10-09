@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e ' *)",
+      "Bash(node \"C:\\\\Users\\\\ASUS\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-ASUS-Desktop-veranda-new\\\\7bb728ce-3987-424b-a6b5-758cac97241f\\\\scratchpad\\\\test-generate.js\")",
+      "Bash(npx medusa *)",
+      "Bash(node \"C:\\\\Users\\\\ASUS\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-ASUS-Desktop-veranda-new\\\\7bb728ce-3987-424b-a6b5-758cac97241f\\\\scratchpad\\\\gen-module.js\" assetMeta AssetMeta asset-meta)",
+      "Bash(node \"C:\\\\Users\\\\ASUS\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-ASUS-Desktop-veranda-new\\\\7bb728ce-3987-424b-a6b5-758cac97241f\\\\scratchpad\\\\gen-module.js\" potMeta PotMeta pot-meta)"
+    ]
+  }
+}
